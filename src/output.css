@@ -265,6 +265,12 @@
   .gap-y-8 {
     row-gap: calc(var(--spacing) * 8);
   }
+  .overflow-auto {
+    overflow: auto;
+  }
+  .overflow-scroll {
+    overflow: scroll;
+  }
   .rounded-2xl {
     border-radius: var(--radius-2xl);
   }
